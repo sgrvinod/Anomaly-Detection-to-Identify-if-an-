@@ -1,8 +1,8 @@
 # Anomaly-Detection-using-a-Deep-Learning-Auto-Encoder
 
-Performed Anomaly Detection using a Deep Learning Auto-Encoder (using h2o). 
+Performed Anomaly Detection using a deep Learning auto-encoder (using h2o). 
 
-Trained the Auto-Encoder (2 hidden layer x 400 neurons, Tanh activated) on a bunch of faces, and tested it out on an equal mix of faces and non-faces. During prediction, a non-face is an image that will have a high error of reconstruction (since the auto-encoder is trained to reconstruct faces.)
+Trained the auto-encoder (2 hidden layer x 400 neurons, Tanh activated) on a bunch of faces, and tested it out on an equal mix of faces and non-faces. During prediction, a non-face is an image that will have a high error of reconstruction (since the auto-encoder is trained to reconstruct faces.)
 
 #####Confusion matrix:
 
