@@ -6,6 +6,8 @@ Trained the Auto-Encoder (2 hidden layer x 400 neurons, Tanh activated) on a bun
 
 #####Confusion matrix:
 
+![Confusion Matrix](https://github.com/sgrvinod/Anomaly-Detection-using-a-Deep-Learning-Auto-Encoder/blob/master/cm.png?raw=true)
+
 **Modeled in R**
 
 ###Examples:
